@@ -1,0 +1,12 @@
+C:\Users\William\Source\Repos\StockControlWillian\StockControlWillian\StockControlWillian\bin\Debug\StockControlWillian.exe.config
+C:\Users\William\Source\Repos\StockControlWillian\StockControlWillian\StockControlWillian\bin\Debug\StockControlWillian.exe
+C:\Users\William\Source\Repos\StockControlWillian\StockControlWillian\StockControlWillian\bin\Debug\StockControlWillian.pdb
+C:\Users\William\Source\Repos\StockControlWillian\StockControlWillian\StockControlWillian\obj\Debug\StockControlWillian.csprojAssemblyReference.cache
+C:\Users\William\Source\Repos\StockControlWillian\StockControlWillian\StockControlWillian\obj\Debug\StockControlWillian.Cadastro.resources
+C:\Users\William\Source\Repos\StockControlWillian\StockControlWillian\StockControlWillian\obj\Debug\StockControlWillian.Login.resources
+C:\Users\William\Source\Repos\StockControlWillian\StockControlWillian\StockControlWillian\obj\Debug\StockControlWillian.Properties.Resources.resources
+C:\Users\William\Source\Repos\StockControlWillian\StockControlWillian\StockControlWillian\obj\Debug\StockControlWillian.csproj.GenerateResource.cache
+C:\Users\William\Source\Repos\StockControlWillian\StockControlWillian\StockControlWillian\obj\Debug\StockControlWillian.csproj.CoreCompileInputs.cache
+C:\Users\William\Source\Repos\StockControlWillian\StockControlWillian\StockControlWillian\obj\Debug\StockControlWillian.exe
+C:\Users\William\Source\Repos\StockControlWillian\StockControlWillian\StockControlWillian\obj\Debug\StockControlWillian.pdb
+C:\Users\William\Source\Repos\StockControlWillian\StockControlWillian\StockControlWillian\obj\Debug\StockControlWillian.LoginAdm.resources
